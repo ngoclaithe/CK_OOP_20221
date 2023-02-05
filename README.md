@@ -14,7 +14,6 @@
 <!-- OVER VIEW -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 Đây là project giữa kỳ môn lập trình hướng đối tượng của nhóm 12.
 
@@ -34,15 +33,6 @@ $ git clone https://github.com/ngoclaithe/CK_OOP_20221
 ### Built With
 
 Phần này liệt kê 1 số thư viện sử dụng
-
-//* [![Next][Next.js]][Next-url]
-//* [![React][React.js]][React-url]
-//* [![Vue][Vue.js]][Vue-url]
-//* [![Angular][Angular.io]][Angular-url]
-//* [![Svelte][Svelte.dev]][Svelte-url]
-//* [![Laravel][Laravel.com]][Laravel-url]
-//* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-//* [![JQuery][JQuery.com]][JQuery-url]
 *jsoup
 *Gson
 *...
