@@ -1,0 +1,822 @@
+[
+  {
+    "name": "Kinh Dương Vương",
+    "realname": "Lộc Tục[3]",
+    "des": "Khai sáng triều đại, con thứ Đế Minh, em Đế Nghi"
+  },
+  {
+    "name": "Lạc Long Quân",
+    "realname": "Sùng Lãm[3]",
+    "des": "Con Kinh Dương Vương"
+  },
+  {
+    "name": "Hùng Vương thứ nhất",
+    "realname": "không rõ",
+    "des": "Con trưởng Lạc Long Quân"
+  },
+  {
+    "name": "Hùng Vương thứ hai",
+    "realname": "không rõ",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ ba",
+    "realname": "không rõ",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ tư",
+    "realname": "không rõ",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ năm",
+    "realname": "không rõ",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ sáu",
+    "realname": "không rõ",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ bảy",
+    "realname": "Lang Liêu[6]",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ tám",
+    "realname": "Thừa Vân Lang",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ chín",
+    "realname": "Quân Lang",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ mười",
+    "realname": "Hùng Hải Lang",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ 11",
+    "realname": "Hưng Đức Lang",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ 12",
+    "realname": "không rõ",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ 13",
+    "realname": "Tuấn Lang",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ 14",
+    "realname": "Chân Nhân Lang",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ 15",
+    "realname": "Cảnh Chiêu Lang",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ 16",
+    "realname": "Đức Quân Lang",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ 17",
+    "realname": "không rõ",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ 18",
+    "realname": "không rõ",
+    "des": ""
+  },
+  {
+    "name": "Hùng Vương thứ 19[8]",
+    "realname": "Huệ Lang",
+    "des": ""
+  },
+  {
+    "name": "Triệu Vũ Vương[2]",
+    "realname": "Triệu Đà[3]",
+    "des": "Dòng dõi nước Triệu thời Chiến Quốc, khai sáng triều đại.[s]"
+  },
+  {
+    "name": "Triệu Văn Vương[2]",
+    "realname": "Triệu Hồ[9] Triệu Muội[3]",
+    "des": "Cháu nội Triệu Đà, con Triệu Trọng Thủy."
+  },
+  {
+    "name": "Triệu Minh Vương[2]",
+    "realname": "Triệu Anh Tề[3]",
+    "des": "Con Triệu Hồ"
+  },
+  {
+    "name": "Triệu Ai Vương[2]",
+    "realname": "Triệu Hưng[3]",
+    "des": "Con thứ Triệu Anh Tề"
+  },
+  {
+    "name": "Triệu Dương Vương[2]",
+    "realname": "Triệu Kiến Đức[3]",
+    "des": "Con trưởng Triệu Anh Tề, anh Triệu Hưng."
+  },
+  {
+    "name": "Trưng Vương[13]",
+    "realname": "Trưng Trắc[12] (徵側) Lạc Trắc[12]",
+    "des": "Vợ Thi Sách, sáng lập triều đại"
+  },
+  {
+    "name": "Lý Nam Đế",
+    "realname": "Lý Bí[14] Lý Bôn[14] (李賁)",
+    "des": "Nổi dậy tự lập, khai sáng triều đại[15]"
+  },
+  {
+    "name": "Triệu Việt Vương[x]",
+    "realname": "Triệu Quang Phục[15] (趙光復)",
+    "des": "Con Thái phó Triệu Túc, được Lý Nam Đế giao toàn bộ quyền hành.[15]"
+  },
+  {
+    "name": "Đào Lang Vương[z]",
+    "realname": "Lý Thiên Bảo[14]",
+    "des": "Anh trai Lý Nam Đế[14]"
+  },
+  {
+    "name": "Hậu Lý Nam Đế[aa]",
+    "realname": "Lý Phật Tử[15] (李佛子)",
+    "des": "Người trong họ Lý Nam Đế[15]"
+  },
+  {
+    "name": "Lý Sư Lợi[ad]",
+    "realname": "Lý Sư Lợi[16]",
+    "des": "con Hậu Lý Nam Đế[16]"
+  },
+  {
+    "name": "Mai Hắc Đế[18]",
+    "realname": "Mai Thúc Loan,[18] (梅叔鸞) Mai Huyền Thành,[19] Mai Lập Thành,[20] Mai Thúc Yên,[21] Mai Phượng.[af]",
+    "des": "Con Mai Hoàn, sáng lập triều đại."
+  },
+  {
+    "name": "Mai Thiếu Đế[ah]",
+    "realname": "Mai Thúc Huy, Mai Bảo Sơn",
+    "des": "Con út Mai Hắc Đế, em song sinh với Bạch Đầu Đế."
+  },
+  {
+    "name": "Bạch Đầu Đế[ah]",
+    "realname": "Mai Kỳ Sơn",
+    "des": "Con thứ hai Mai Hắc Đế, anh song sinh với Mai Thiếu Đế."
+  },
+  {
+    "name": "Phùng Hưng[ai]",
+    "realname": "Phùng Hưng (馮興), Phùng Cự Lão",
+    "des": "con Phùng Hạp Khanh, thế tập Biên Khố Di Tù Trưởng"
+  },
+  {
+    "name": "Phùng An[al]",
+    "realname": "Phùng An",
+    "des": "con Phùng Hưng"
+  },
+  {
+    "name": "Khúc Tiên Chủ[am]",
+    "realname": "Khúc Thừa Dụ[22] (曲承裕)",
+    "des": "Mở màn nền tự chủ[22]"
+  },
+  {
+    "name": "Khúc Trung Chủ[am]",
+    "realname": "Khúc Hạo,[22] (曲顥) Khúc Thừa Hạo[23]",
+    "des": "Con Khúc Thừa Dụ[22]"
+  },
+  {
+    "name": "Khúc Hậu Chủ[am]",
+    "realname": "Khúc Thừa Mỹ[23] (曲承美) Khúc Toàn Mỹ",
+    "des": "Con Khúc Hạo[23]"
+  },
+  {
+    "name": "Dương Chính Công[am]",
+    "realname": "Dương Đình Nghệ,[22] (楊廷藝) Dương Diên Nghệ[25] (楊筵藝)",
+    "des": "Khôi phục nền tự chủ; nha tướng của Khúc Hạo"
+  },
+  {
+    "name": "Kiều Công Tiễn[am]",
+    "realname": "Kiều Công Tiễn,[23] (矯公羨) Kiểu Công Tiễn,[22] Kiểu Công Hạo,[25]",
+    "des": "Con nuôi và nha tướng của Dương Đình Nghệ"
+  },
+  {
+    "name": "Tiền Ngô Vương",
+    "realname": "Ngô Quyền[22]",
+    "des": "Sáng lập triều đại; con rể Dương Đình Nghệ"
+  },
+  {
+    "name": "Dương Bình Vương[ao]",
+    "realname": "Dương Tam Kha,[22] Dương Chủ Tướng,[26] Dương Thiệu Hồng[27]",
+    "des": "Con trai Dương Đình Nghệ"
+  },
+  {
+    "name": "Thiên Sách Vương[aq]",
+    "realname": "Ngô Xương Ngập[22]",
+    "des": "Con trưởng Ngô Quyền"
+  },
+  {
+    "name": "Nam Tấn Vương[aq]",
+    "realname": "Ngô Xương Tấn,[24] Ngô Xương Văn[22]",
+    "des": "Con thứ Ngô Quyền"
+  },
+  {
+    "name": "Ngô Sứ Quân[28]",
+    "realname": "Ngô Xương Xí[22]",
+    "des": "Con Ngô Xương Ngập"
+  },
+  {
+    "name": "Đinh Tiên Hoàng[as]",
+    "realname": "Đinh Bộ Lĩnh,[29] Đinh Hoàn[au]",
+    "des": "Sáng lập triều đại; con nuôi Sứ quân Trần Minh Công"
+  },
+  {
+    "name": "Đinh Phế Đế[av]",
+    "realname": "Đinh Toàn,[29] Đinh Tuệ[30]",
+    "des": "Con trai thứ 2 Đinh Tiên Hoàng"
+  },
+  {
+    "name": "Lê Đại Hành[ay]",
+    "realname": "Lê Hoàn[31]",
+    "des": "Sáng lập triều đại, Phó vương nhiếp chính thời Đinh Phế Đế"
+  },
+  {
+    "name": "Lê Trung Tông",
+    "realname": "Lê Long Việt[31]",
+    "des": "Con thứ Lê Đại Hành"
+  },
+  {
+    "name": "Lê Ngọa Triều",
+    "realname": "Lê Long Đĩnh,[29]",
+    "des": "Con thứ năm Lê Đại Hành"
+  },
+  {
+    "name": "Lý Thái Tổ[bd]",
+    "realname": "Lý Công Uẩn[32]",
+    "des": "Sáng lập triều đại. Nguyên là Điện tiền Chỉ huy sứ và là Phò mã trưởng Lê Đại Hành[32]"
+  },
+  {
+    "name": "Lý Thái Tông[be]",
+    "realname": "Lý Phật Mã,[32] Lý Đức Chính[32]",
+    "des": "Con trưởng Lý Thái Tổ[32]"
+  },
+  {
+    "name": "Lý Thánh Tông",
+    "realname": "Lý Nhật Tôn[33]",
+    "des": "Con trưởng Lý Thái Tông[33]"
+  },
+  {
+    "name": "Lý Nhân Tông[bh]",
+    "realname": "Lý Càn Đức[33]",
+    "des": "Con trưởng Lý Thánh Tông[33]"
+  },
+  {
+    "name": "Lý Thần Tông[bi]",
+    "realname": "Lý Dương Hoán[33]",
+    "des": "con Sùng Hiền Hầu, cháu nội Lý Thánh Tông[33]"
+  },
+  {
+    "name": "Lý Anh Tông[bj]",
+    "realname": "Lý Thiên Tộ[36]",
+    "des": "Con thứ Lý Thần Tông[36]"
+  },
+  {
+    "name": "Lý Cao Tông",
+    "realname": "Lý Long Cán[38] Lý Long Trát[36]",
+    "des": "Con thứ 6 Lý Anh Tông[36]"
+  },
+  {
+    "name": "Lý Thẩm[bm][bn]",
+    "realname": "Lý Thẩm[37]",
+    "des": "Con thứ Lý Cao Tông[37]"
+  },
+  {
+    "name": "Lý Huệ Tông[bo]",
+    "realname": "Lý Sảm,[36] Lý Hạo Sảm[37]",
+    "des": "Con trưởng Lý Cao Tông[37]"
+  },
+  {
+    "name": "Lý Nguyên Vương[bn][bq]",
+    "realname": "không rõ[39]",
+    "des": "Con thứ Lý Anh Tông[39]"
+  },
+  {
+    "name": "Lý Chiêu Hoàng[bs]",
+    "realname": "Lý Phật Kim,[36] Lý Thiên Hinh[39]",
+    "des": "Con gái Lý Huệ Tông, vợ Trần Thái Tông[39]"
+  },
+  {
+    "name": "Trần Thái Tông[bu]",
+    "realname": "Trần Cảnh[40] Trần Bồ[40] Trần Quang Bỉnh[41] Trần Nhật Cảnh[42]",
+    "des": "Sáng lập triều đại, chồng và anh họ Lý Chiêu Hoàng[40]"
+  },
+  {
+    "name": "Trần Thánh Tông[bv]",
+    "realname": "Trần Hoảng[40] Trần Uy Hoảng[42] Trần Quang Bính[41] Trần Nhật Huyên[41]",
+    "des": "Con thứ hai Trần Thái Tông[40]"
+  },
+  {
+    "name": "Trần Nhân Tông[bw]",
+    "realname": "Trần Khâm[43] Trần Nhật Tuấn[41]",
+    "des": "Con trưởng Trần Thánh Tông[43]"
+  },
+  {
+    "name": "Trần Anh Tông[bx]",
+    "realname": "Trần Thuyên[43] Trần Nhật 㷃[41] Trần Nhật 𤊞[42]",
+    "des": "Con trưởng Trần Nhân Tông"
+  },
+  {
+    "name": "Trần Minh Tông[by]",
+    "realname": "Trần Mạnh[44] Trần Thánh Sinh[bz] Trần Nhật Khoáng[41]",
+    "des": "Con thứ tư Trần Anh Tông[44]"
+  },
+  {
+    "name": "Trần Hiến Tông[ca]",
+    "realname": "Trần Vượng[44] Trần Thiên Kiến [44] Trần Nhật 㷆[41]",
+    "des": "Con trưởng Trần Minh Tông[44]"
+  },
+  {
+    "name": "Trần Dụ Tông[cb]",
+    "realname": "Trần Hạo[44] Trần Nhật Khuê[45]",
+    "des": "Con thứ mười Trần Minh Tông, dòng hoàng đích tử[44]"
+  },
+  {
+    "name": "Đại Định Đế[cc]",
+    "realname": "Trần Nhật Lễ[44] Dương Nhật Lễ[44] Trần Nhật Kiên[45]",
+    "des": "Con riêng của chị dâu Trần Dụ Tông[44]"
+  },
+  {
+    "name": "Trần Nghệ Tông[ce]",
+    "realname": "Trần Phủ[46] Trần Thúc Minh[45]",
+    "des": "Con thứ ba Trần Minh Tông"
+  },
+  {
+    "name": "Trần Duệ Tông[cf]",
+    "realname": "Trần Kính[44] Trần Nhật Đoan[45]",
+    "des": "Con thứ 11 Trần Minh Tông[44]"
+  },
+  {
+    "name": "Trần Phế Đế[cg]",
+    "realname": "Trần Hiện[46] Trần Nhật Vĩ[45]",
+    "des": "Con thứ Trần Duệ Tông[46]"
+  },
+  {
+    "name": "Trần Thuận Tông[ch]",
+    "realname": "Trần Ngung[46] Trần Nhật Hỗn[45]",
+    "des": "Con thứ của Trần Nghệ Tông[46]"
+  },
+  {
+    "name": "Trần Thiếu Đế[46]",
+    "realname": "Trần An[46]",
+    "des": "Con trưởng Trần Thuận Tông, cháu ngoại Hồ Quý Ly[46]"
+  },
+  {
+    "name": "Hồ Quý Ly[cj]",
+    "realname": "Hồ Quý Ly Hồ Nhất Nguyên Lê Quý Ly Lê Nhất Nguyên",
+    "des": "Sáng lập triều đại, phò mã Trần Minh Tông, ông ngoại Trần Thiếu Đế"
+  },
+  {
+    "name": "Hồ Hán Thương",
+    "realname": "Hồ Hán Thương[46] Lê Hán Thương[46] Hồ Hỏa[45]",
+    "des": "Con thứ Hồ Quý Ly"
+  },
+  {
+    "name": "Trần Nguyệt Hồ",
+    "realname": "Trần Nguyệt Hồ",
+    "des": "không rõ"
+  },
+  {
+    "name": "Giản Định Đế",
+    "realname": "Trần Ngỗi, Trần Quỹ",
+    "des": "Con trai thứ Trần Nghệ Tông"
+  },
+  {
+    "name": "Trùng Quang Đế",
+    "realname": "Trần Quý Khoáng, Trần Quý Khoách",
+    "des": "Cháu nội Trần Nghệ Tông"
+  },
+  {
+    "name": "Lê Thái Tổ[cn]",
+    "realname": "Lê Lợi[48]",
+    "des": "Sáng lập triểu đại[48]"
+  },
+  {
+    "name": "Lê Thái Tông[co]",
+    "realname": "Lê Nguyên Long[50] Lê Lân[45]",
+    "des": "Con thứ hai Lê Thái Tổ[50]"
+  },
+  {
+    "name": "Lê Nhân Tông",
+    "realname": "Lê Bang Cơ[50] Lê Cơ Long Lê Tuấn[52]",
+    "des": "Con thứ ba Lê Thái Tông[50]"
+  },
+  {
+    "name": "Lạng Sơn Vương[cp]",
+    "realname": "Lê Nghi Dân[50] Lê Tông[52]",
+    "des": "Con trưởng Lê Thái Tông[50]"
+  },
+  {
+    "name": "Lê Thánh Tông[cr]",
+    "realname": "Lê Tư Thành[51] Lê Hạo[45]",
+    "des": "Con thứ tư Lê Thái Tông[51]"
+  },
+  {
+    "name": "Lê Hiến Tông[cs]",
+    "realname": "Lê Tranh[53] Lê Sanh[53] Lê Huy[53] Lê Tăng[45]",
+    "des": "Con trưởng Lê Thánh Tông"
+  },
+  {
+    "name": "Lê Túc Tông[ct]",
+    "realname": "Lê Thuần[53]",
+    "des": "Con thứ ba Lê Hiến Tông"
+  },
+  {
+    "name": "Lê Uy Mục[cu]",
+    "realname": "Lê Tuấn[53] Lê Huyên[53]",
+    "des": "Con thứ hai Lê Hiến Tông[53]"
+  },
+  {
+    "name": "Lê Tương Dực[cv]",
+    "realname": "Lê Oánh[55] Lê Oanh[55] Lê Dinh[54] Lê Trừu[54]",
+    "des": "Con Lê Đức Tông, cháu nội Lê Thánh Tông[54]"
+  },
+  {
+    "name": "Lê Quang Trị[cw][cx]",
+    "realname": "Lê Quang Trị[54]",
+    "des": "Con Lê Doanh, cháu nội Lê Đức Tông, cháu gọi Lê Tương Dực bằng bác[54]"
+  },
+  {
+    "name": "Lê Chiêu Tông[cy]",
+    "realname": "Lê Y[54] Lê Huệ[54]",
+    "des": "Anh họ Lê Quang Trị, chắt Lê Thánh Tông[54]"
+  },
+  {
+    "name": "Lê Bảng[cx][cz]",
+    "realname": "Lê Bảng[54]",
+    "des": "Con Lê Lộc, Lộc là cháu nội Lê Khắc Xương, Khắc Xương là anh của Lê Thánh Tông[54]"
+  },
+  {
+    "name": "Lê Do[cx][da]",
+    "realname": "Lê Do[54] Lê Dữu[56]",
+    "des": "Em cùng mẹ với Lê Bảng[54]"
+  },
+  {
+    "name": "Lê Cung Hoàng[db]",
+    "realname": "Lê Xuân[54] Lê Lự[54] Lê Khánh[57]",
+    "des": "Em Lê Chiêu Tông[54]"
+  },
+  {
+    "name": "Mạc Thái Tổ[dd]",
+    "realname": "Mạc Đăng Dung[54]",
+    "des": "Cháu 7 đời Mạc Đĩnh Chi, sáng lập triều đại[58]"
+  },
+  {
+    "name": "Mạc Thái Tông[de]",
+    "realname": "Mạc Đăng Doanh[59] Mạc Phương Doanh[45]",
+    "des": "Con trưởng Mạc Thái Tổ[59]"
+  },
+  {
+    "name": "Mạc Hiến Tông",
+    "realname": "Mạc Phúc Hải[60] Mạc Đức Nguyên[60]",
+    "des": "Con trưởng Mạc Thái Tông[60]"
+  },
+  {
+    "name": "Mạc Chính Trung[df]",
+    "realname": "Mạc Chính Trung[61]",
+    "des": "Em Mạc Thái Tông[61]"
+  },
+  {
+    "name": "Mạc Tuyên Tông",
+    "realname": "Mạc Phúc Nguyên[62]",
+    "des": "Con Mạc Hiến Tông[62]"
+  },
+  {
+    "name": "Mạc Mục Tông Mạc Anh Tổ",
+    "realname": "Mạc Mậu Hợp[65]",
+    "des": "Con trai Mạc Tuyên Tông[65]"
+  },
+  {
+    "name": "Mạc Cảnh Tông",
+    "realname": "Mạc Toàn[66]",
+    "des": "Con thứ Mạc Mậu Hợp[66]"
+  },
+  {
+    "name": "Mạc Mẫn Tông[dg]",
+    "realname": "Mạc Kính Chỉ[66] Mạc Kính Bang[45]",
+    "des": "Con trưởng Mạc Kính Điển, cháu nội Mạc Thái Tông[66]"
+  },
+  {
+    "name": "Mạc Đại Tông[dh]",
+    "realname": "Mạc Kính Cung[67]",
+    "des": "Con thứ 7 Mạc Kính Điển[67]"
+  },
+  {
+    "name": "Mạc Quang Tổ",
+    "realname": "Mạc Kính Khoan[67]",
+    "des": "Cháu nội Mạc Kính Điển[67]"
+  },
+  {
+    "name": "Mạc Minh Tông",
+    "realname": "Mạc Kính Vũ Mạc Kính Hoàn Mạc Kính Diệu[69]",
+    "des": "Con Mạc Kính Khoan[68]"
+  },
+  {
+    "name": "Mạc Quý Tông",
+    "realname": "Mạc Kính Hẻ[70] Mạc Kính Thụy[71] Mạc Nguyên Thanh[di]",
+    "des": "Con Mạc Kính Vũ[70]"
+  },
+  {
+    "name": "Mạc Đức Tông",
+    "realname": "Mạc Kính Quang[71] Mạc Kính Tiêu[70] Mạc Kính Hoảng[69]",
+    "des": "Con Mạc Kính Vũ, em Mạc Nguyên Thanh[71]"
+  },
+  {
+    "name": "Lê Trang Tông[dm]",
+    "realname": "Lê Ninh[72] Lê Huyến[72] Lê Duy Ninh[45]",
+    "des": "Được cho là con Lê Chiêu Tông[72][dn]"
+  },
+  {
+    "name": "Lê Trung Tông",
+    "realname": "Lê Huyên[72] Lê Duy Huyên[45]",
+    "des": "Con Lê Trang Tông[72]"
+  },
+  {
+    "name": "Lê Anh Tông[do]",
+    "realname": "Lê Duy Bang[72]",
+    "des": "Cháu 6 đời của Lê Trừ, anh Lê Thái Tổ[dp]"
+  },
+  {
+    "name": "Lê Thế Tông[dq]",
+    "realname": "Lê Đàm[73] Lê Duy Đàm[66]",
+    "des": "Con thứ năm Lê Anh Tông[66]"
+  },
+  {
+    "name": "Lê Kính Tông[dr]",
+    "realname": "Lê Duy Tân[74]",
+    "des": "Con thứ Lê Thế Tông[74]"
+  },
+  {
+    "name": "Lê Thần Tông[ds]",
+    "realname": "Lê Duy Kỳ[74]",
+    "des": "Con trưởng Lê Kính Tông[74]"
+  },
+  {
+    "name": "Lê Chân Tông",
+    "realname": "Lê Duy Hựu[74] Lê Duy Đề[70]",
+    "des": "Con trưởng Lê Thần Tông[74]"
+  },
+  {
+    "name": "Lê Thần Tông[ds]",
+    "realname": "Lê Duy Kỳ[76]",
+    "des": "Làm vua lần 2[77]"
+  },
+  {
+    "name": "Lê Huyền Tông[dt]",
+    "realname": "Lê Duy Vũ[78] Lê Duy Hy[70]",
+    "des": "Con thứ Lê Thần Tông[78]"
+  },
+  {
+    "name": "Lê Gia Tông[du]",
+    "realname": "Lê Duy Cối[78] Lê Duy Khoái[79]",
+    "des": "Con thứ Lê Thần Tông[78]"
+  },
+  {
+    "name": "Lê Hy Tông[dv]",
+    "realname": "Lê Duy Hợp[70] Lê Duy Hiệp[79] Lê Duy Cáp[78]",
+    "des": "con thứ tư Lê Thần Tông[78]"
+  },
+  {
+    "name": "Lê Dụ Tông[dw]",
+    "realname": "Lê Duy Đường[82] Lê Duy Tạo[70]",
+    "des": "con trưởng Lê Hy Tông[83]"
+  },
+  {
+    "name": "Lê Duy Phường",
+    "realname": "Lê Duy Phường[82]",
+    "des": "con thứ Lê Dụ Tông[82]"
+  },
+  {
+    "name": "Lê Thuần Tông[dx]",
+    "realname": "Lê Duy Tường[82] Lê Duy Hỗ[84]",
+    "des": "con trưởng Lê Dụ Tông[82]"
+  },
+  {
+    "name": "Lê Ý Tông[dy]",
+    "realname": "Lê Duy Thận[81] Lê Duy Chấn[87] Lê Duy Hỗ[88]",
+    "des": "con thứ 11 Lê Dụ Tông[81]"
+  },
+  {
+    "name": "Lê Hiển Tông[dz]",
+    "realname": "Lê Duy Diêu[86] Lê Duy Đào[70]",
+    "des": "con trưởng Lê Thuần Tông[86]"
+  },
+  {
+    "name": "Lê Chiêu Thống[ea]",
+    "realname": "Lê Duy Kỳ[90][91] Lê Duy Khiêm[88] Lê Tư Khiêm[70]",
+    "des": "con Lê Duy Vỹ, cháu đích tôn Lê Hiển Tông[90]"
+  },
+  {
+    "name": "Trịnh Kiểm[ed]",
+    "realname": "Trịnh Kiểm[61]",
+    "des": "con rể Nguyễn Kim[61]"
+  },
+  {
+    "name": "Trịnh Cối[ee]",
+    "realname": "Trịnh Cối[61]",
+    "des": "con cả Trịnh Kiểm[61]"
+  },
+  {
+    "name": "Bình An Vương[eg]",
+    "realname": "Trịnh Tùng[93]",
+    "des": "con thứ Trịnh Kiểm, chúa Trịnh đầu tiên[72]"
+  },
+  {
+    "name": "Thanh Đô Vương[eh]",
+    "realname": "Trịnh Tráng[94]",
+    "des": "con thứ hai Trịnh Tùng[94]"
+  },
+  {
+    "name": "Tây Định Vương[ei]",
+    "realname": "Trịnh Tạc[76]",
+    "des": "con thứ hai Trịnh Tráng[76]"
+  },
+  {
+    "name": "Định Nam Vương[ej]",
+    "realname": "Trịnh Căn[79]",
+    "des": "con trưởng Trịnh Tạc[79]"
+  },
+  {
+    "name": "An Đô Vương[ek]",
+    "realname": "Trịnh Cương[80]",
+    "des": "chắt của Trịnh Căn, cháu Trịnh Vịnh, con Trịnh Bính[80]"
+  },
+  {
+    "name": "Uy Nam Vương[el]",
+    "realname": "Trịnh Giang[85] Trịnh Khương[85] Trịnh 𣞪[70]",
+    "des": "con trưởng Trịnh Cương[81]"
+  },
+  {
+    "name": "Minh Đô Vương[em]",
+    "realname": "Trịnh Doanh[95]",
+    "des": "con thứ Trịnh Cương, em Trịnh Giang[86]"
+  },
+  {
+    "name": "Tĩnh Đô Vương[en]",
+    "realname": "Trịnh Sâm[96]",
+    "des": "con trưởng Trịnh Doanh[95]"
+  },
+  {
+    "name": "Điện Đô Vương[eo]",
+    "realname": "Trịnh Cán[96]",
+    "des": "con thứ Trịnh Sâm[96]"
+  },
+  {
+    "name": "Đoan Nam Vương[ep]",
+    "realname": "Trịnh Khải[96] Trịnh Tông[96]",
+    "des": "con trưởng Trịnh Sâm[96]"
+  },
+  {
+    "name": "Án Đô Vương[eq]",
+    "realname": "Trịnh Bồng[89]",
+    "des": "con Trịnh Giang, anh họ Trịnh Sâm[89]"
+  },
+  {
+    "name": "Tiên Vương[eu]",
+    "realname": "Nguyễn Hoàng[98]",
+    "des": "con út Nguyễn Kim[98]"
+  },
+  {
+    "name": "Sãi Vương[ex] Phật Vương",
+    "realname": "Nguyễn Phúc Nguyên[100]",
+    "des": "con trai thứ sáu Chúa Tiên[100]"
+  },
+  {
+    "name": "Thượng Vương[fa]",
+    "realname": "Nguyễn Phúc Lan[101]",
+    "des": "con trai thứ hai Chúa Sãi[101]"
+  },
+  {
+    "name": "Hiền Vương[fd]",
+    "realname": "Nguyễn Phúc Tần[102] Nguyễn Phúc Cần",
+    "des": "con trai thứ hai Chúa Thượng[102]"
+  },
+  {
+    "name": "Nghĩa Vương[fg]",
+    "realname": "Nguyễn Phúc Thái Nguyễn Phúc Trăn Nguyễn Phúc Ngàn[103]",
+    "des": "con trai thứ hai Chúa Hiền[103]"
+  },
+  {
+    "name": "Minh Vương[fi] Quốc Chúa",
+    "realname": "Nguyễn Phúc Chu Nguyễn Phúc Tùng[104]",
+    "des": "con trưởng Chúa Nghĩa[104]"
+  },
+  {
+    "name": "Ninh Vương[fk]",
+    "realname": "Nguyễn Phúc Chú Nguyễn Phúc Trú[106] Nguyễn Phúc Thụ Nguyễn Phúc Vượng[105]",
+    "des": "con trưởng Chúa Minh[105]"
+  },
+  {
+    "name": "Vũ Vương[fm]",
+    "realname": "Nguyễn Phúc Khoát[107] Nguyễn Phúc Hiểu",
+    "des": "con trưởng Chúa Ninh[107]"
+  },
+  {
+    "name": "Định Vương[fn]",
+    "realname": "Nguyễn Phúc Thuần[108] Nguyễn Phúc Hân",
+    "des": "con trai thứ 16 Chúa Vũ[108]"
+  },
+  {
+    "name": "Tân Chính Vương[fo]",
+    "realname": "Nguyễn Phúc Dương[108]",
+    "des": "con Nguyễn Phúc Hiệu, cháu nội Chúa Vũ, em con chú với vua Gia Long[108]"
+  },
+  {
+    "name": "Thái Đức[110]",
+    "realname": "Hồ Nhạc[110] Nguyễn Nhạc[109] Nguyễn Văn Nhạc[111]",
+    "des": "con trưởng Hồ Phi Phúc, sáng lập triều đại"
+  },
+  {
+    "name": "Quang Trung[109]",
+    "realname": "Nguyễn Huệ[109] Nguyễn Quang Bình[109] Nguyễn Văn Huệ[111] Hồ Thơm[110]",
+    "des": "con thứ Hồ Phi Phúc, em Nguyễn Nhạc, con rể Lê Hiển Tông"
+  },
+  {
+    "name": "Nguyễn Quang Toản[109]",
+    "realname": "Nguyễn Quang Toản[109] Nguyễn Trát[110]",
+    "des": "con thứ Quang Trung, con rể Lê Hiển Tông"
+  },
+  {
+    "name": "Gia Long[112]",
+    "realname": "Nguyễn Phúc Ánh[113] Nguyễn Phúc Chủng[113] Nguyễn Phúc Noãn[113]",
+    "des": "Sáng lập triều đại. Con thứ ba của Nguyễn Phúc Luân, cháu nội Nguyễn Phúc Khoát, con rể Lê Hiển Tông[113]"
+  },
+  {
+    "name": "Minh Mạng[114]",
+    "realname": "Nguyễn Phúc Đảm[115] Nguyễn Phúc Kiểu[115]",
+    "des": "Con thứ tư Gia Long[115]"
+  },
+  {
+    "name": "Thiệu Trị[116]",
+    "realname": "Nguyễn Phúc Miên Tông[117] Nguyễn Phúc Tuyền[117] Nguyễn Phúc Dung[117]",
+    "des": "Con trưởng Minh Mạng[117]"
+  },
+  {
+    "name": "Tự Đức[118]",
+    "realname": "Nguyễn Phúc Hồng Nhậm[119] Nguyễn Phúc Thì[119]",
+    "des": "Con thứ Thiệu Trị[119]"
+  },
+  {
+    "name": "Dục Đức[fu]",
+    "realname": "Nguyễn Phúc Ưng Chân[120] Nguyễn Phúc Ưng Ái[120]",
+    "des": "Con thứ Nguyễn Phúc Hồng Y, cháu nội Thiệu Trị, con nuôi Tự Đức[120]"
+  },
+  {
+    "name": "Hiệp Hòa[120]",
+    "realname": "Nguyễn Phúc Hồng Dật[120] Nguyễn Phúc Thăng[120]",
+    "des": "Con thứ 29 Thiệu Trị[120]"
+  },
+  {
+    "name": "Kiến Phúc[121]",
+    "realname": "Nguyễn Phúc Ưng Đăng[121]",
+    "des": "Con thứ Nguyễn Phúc Hồng Cai, cháu nội Thiệu Trị[121]"
+  },
+  {
+    "name": "Hàm Nghi[122]",
+    "realname": "Nguyễn Phúc Ưng Lịch[122] Nguyễn Phúc Minh[122]",
+    "des": "Em trai Kiến Phúc[122]"
+  },
+  {
+    "name": "Đồng Khánh[124]",
+    "realname": "Nguyễn Phúc Ưng Kỷ[124] Nguyễn Phúc Ưng Đường[124] Nguyễn Phúc Ưng Thị[124] Nguyễn Phúc Biện[124] Chánh Mông[fy]",
+    "des": "Con trưởng Nguyễn Phúc Hồng Cai, anh Kiến Phúc và Hàm Nghi[124]"
+  },
+  {
+    "name": "Thành Thái[124]",
+    "realname": "Nguyễn Phúc Bửu Lân[124] Nguyễn Phúc Chiêu[124]",
+    "des": "Con Dục Đức[124]"
+  },
+  {
+    "name": "Duy Tân[127]",
+    "realname": "Nguyễn Phúc Vĩnh San[127] Nguyễn Phúc Hoảng[127]",
+    "des": "Con thứ Thành Thái[127]"
+  },
+  {
+    "name": "Khải Định[129]",
+    "realname": "Nguyễn Phúc Bửu Đảo[129]",
+    "des": "Con trưởng Đồng Khánh[129]"
+  },
+  {
+    "name": "Bảo Đại[ga]",
+    "realname": "Nguyễn Phúc Vĩnh Thụy[130] Nguyễn Phúc Thiển[130]",
+    "des": "Con Khải Định[130]"
+  }
+]
